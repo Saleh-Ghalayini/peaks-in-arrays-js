@@ -14,4 +14,4 @@ const numbers = input.split(" ").map(Number);
 
 const peaks = find_peaks(numbers);
 
-console.log("Peaks: ", peaks);
+console.log("Peaks: " + peaks);
